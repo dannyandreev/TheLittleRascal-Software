@@ -1,0 +1,4 @@
+<launch>
+   <node name="ultrasonic" pkg-"ultrasonic" type="ulta_talk.py" output="screen"/ >
+   </node>
+</launch>
